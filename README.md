@@ -8,7 +8,7 @@
 
 **图书管理窗口展示**
 
-![登录页面展示](https://github.com/SLDragon-cx330/JavaBookManager/blob/main/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png?raw=true)
+![登录页面展示](https://github.com/SLDragon-cx330/JavaBookManager/blob/main/%E5%9B%BE%E4%B9%A6%E7%AE%A1%E7%90%86%E7%AA%97%E5%8F%A31.png?raw=true)
 
 ## 主要特点
 
