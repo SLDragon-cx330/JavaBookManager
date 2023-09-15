@@ -2,8 +2,13 @@
 
 ## 简介
 **Java图书管理系统**是一个用于管理图书的综合系统。它结合了Java的强大性能与Swing框架的易用性，为用户提供了一个直观、功能齐全的界面。
+**登录页面展示**
 
-![示例界面](链接到你的项目截图)
+![登录页面展示](https://github.com/SLDragon-cx330/JavaBookManager/blob/main/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png?raw=true)
+
+**图书管理窗口展示**
+
+![登录页面展示](https://github.com/SLDragon-cx330/JavaBookManager/blob/main/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2.png?raw=true)
 
 ## 主要特点
 
